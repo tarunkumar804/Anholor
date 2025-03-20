@@ -1,0 +1,46 @@
+\documentclass[a4paper,12pt]{article}
+\author {Anholor developers}
+\title {Anholor mainline story - scenario 2}
+\begin{document}
+\maketitle
+[The player is presented with a choice to save the game or move on with the game]\newline
+[Continue?]\newline
+[Yes/No?]\newline
+
+[If the player clicks yes, the player is sucked into the TV again. Otherwise, the player is pushed to the main screen]\newline
+
+[The player is sucked into the TV again.]\newline
+
+[The player sees blurry vision. Then, his vision is cleared more and more and he sees a woman in cybernetics and mechanical armor]\newline
+
+Woman in mechanical armour : How do you feel?\newline
+
+[Player touches body]\newline
+
+Woman in cybernetic armour : Oh, you have not remembered yet.\newline
+
+Woman in cybernetic armour : Okay, it will take some time.\newline
+
+[Woman coughs out blood]\newline
+
+Woman in cybernetic armour : Nothing to worry about. It's the same thing again. Above all, how do you feel? \newline
+
+Woman in cybernetic armour : Oh, you have speech impairment.\newline
+
+[Woman coughs again. She coughs out blood and takes a pill]\newline
+
+Woman in cybernetic armour : Let's go for a walk.\newline
+
+[The woman takes the player through a city of the future with cybernetics and futuristic technology]\newline
+
+[She takes the player to a restaurant; Neon lights are scattered across the place]\newline
+
+[The woman coughs again. This time with more blood on her hand. She takes a pill again]\newline
+
+[The player is given a prompt to write as a reply]\newline
+
+[The game AI responds appropriately]\newline
+
+[From here on, the game branches]\newline
+
+\end{document}
